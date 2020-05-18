@@ -14,7 +14,7 @@ pipeline {
     stages {
         stage("First step") {
                 steps {
-                    sh 'ssh root@172.25.0.2 \'hostname\' cd /var/www/symfony-jenkins/ git pull'
+                    sh 'cd /var/www/symfony-jenkins/'
                 }
             }
     }

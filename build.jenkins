@@ -14,7 +14,7 @@ pipeline {
     stages {
         stage("First step") {
                 steps {
-                    sh 'cd /var/www/symfony-jenkins/'
+                    sh 'ls -l'
                 }
             }
     }

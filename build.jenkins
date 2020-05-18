@@ -15,15 +15,10 @@ pipeline {
         stage("First step") {
                 steps {
                     sh 'ssh root@172.25.0.2 \'hostname\''
+                    sh '''
+                    sh 'cd /var/www/symfony-jenkins/'
+                    sh 'git pull'
                 }
             }
-        stage("docker push") {
-            steps {
-                echo " ============== start pushing image =================="
-                sh '''
-                git pull
-                '''
-            }
-        }
     }
 }

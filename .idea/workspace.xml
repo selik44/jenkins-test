@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0da3e0d7-4065-433c-a365-596005321078" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.jenkins" beforeDir="false" afterPath="$PROJECT_DIR$/build.jenkins" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/build.jenkins">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -215,7 +214,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589286856164</updated>
-      <workItem from="1589286858381" duration="19388000" />
+      <workItem from="1589286858381" duration="20283000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1589810256588</created>
@@ -266,15 +265,63 @@
       <option name="project" value="LOCAL" />
       <updated>1589814525939</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test jenkinsFile">
+      <created>1589814601375</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589814601375</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test jenkinsFile">
+      <created>1589814677688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589814677689</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test jenkinsFile">
+      <created>1589815529998</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589815529998</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test jenkinsFile">
+      <created>1589815693374</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589815693374</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test jenkinsFile">
+      <created>1589815753509</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589815753509</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test jenkinsFile">
+      <created>1589815895701</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589815895701</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test jenkinsFile">
+      <created>1589816055550</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589816055550</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19388000" />
+    <option name="totallyTimeSpent" value="20283000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
@@ -381,7 +428,7 @@
     <entry file="file://$PROJECT_DIR$/build.jenkins">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>

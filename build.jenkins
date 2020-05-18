@@ -12,6 +12,11 @@ pipeline {
         timestamps()
     }
     stages {
+        stage("First step") {
+                steps {
+                    sh 'ssh root@172.25.0.2 \'hostname\''
+                }
+            }
         stage("docker push") {
             steps {
                 echo " ============== start pushing image =================="
